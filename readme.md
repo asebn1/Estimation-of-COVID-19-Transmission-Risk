@@ -40,4 +40,4 @@ python3 Social_Distance_avg_run.py
 - 신은섭
 
 # KSC2020 학부생논문 입상
-- ([논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530025))
+- [논문링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530025)

@@ -25,7 +25,7 @@ python3 Social_Distance_avg_run.py
 ```
 
 # Run Screen
-![runscreen](/uploads/50538af51a2521a39e081f0d007fbda2/runscreen.png)
+![runscreen](https://user-images.githubusercontent.com/57438644/114366748-afc1d100-9bb6-11eb-8632-4857584949c9.png)
 
 # Member
 **Project Member**
@@ -39,5 +39,5 @@ python3 Social_Distance_avg_run.py
 - 배성호
 - 신은섭
 
-
-
+# KSC2020 학부생논문 입상
+- ([논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530025))
